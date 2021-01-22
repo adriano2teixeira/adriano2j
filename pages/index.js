@@ -6,14 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
   
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-E5MWJDCT3Y"></script>
-        <script>
-          window.dataLayer = window.dataLayer || []
-          function gtag(){dataLayer.push(arguments)}
-          gtag('js', new Date());
-
-          gtag('config', 'G-E5MWJDCT3Y');
-        </script>
+       
         <title>Adriano Teixeira João | Desenvolvedor Fullstack</title>
         <meta
           name="description"
