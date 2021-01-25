@@ -12,7 +12,7 @@ export default function Home() {
           name="description"
           content="Adriano Teixeira João - Site oficial do desenvolvedor Fullstack Reconhecido como prodígio Angolano"
         />
-        <div>
+       
           <link
             rel="apple-touch-icon"
             sizes="57x57"
@@ -86,7 +86,9 @@ export default function Home() {
           <meta name="msapplication-TileColor" content="#ffffff" />
           <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
           <meta name="theme-color" content="#000" />
-        </div>
+          <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101298296)</script>
+          <script async src="//static.getclicky.com/js"></script>
+
 
         <meta
           name="keywords"
