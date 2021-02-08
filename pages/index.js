@@ -99,7 +99,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <img
-          src="/adriano_teixeira_joao.jpeg"
+          src="/IMG_20210119_131826.jpg"
           style={{ width: 210, borderRadius: "50%", border: "5px solid #ddd" }}
         />
         <h1 className={styles.title}>Adriano Teixeira João</h1>
