@@ -106,7 +106,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Desenvolvedor Fullstack - Web, Mobile e Desktop, com mais de 7 anos de
-          experiência na área. Trabalhando com tecnologias como HTML, CSS, JavaScript, NodeJS, React JS, React Native, Go lang, Docker, Kubernentes, AWS...
+          experiência na área. Trabalhando com tecnologias tais como HTML, CSS, </br> JavaScript, NodeJS, React JS, React Native, Go lang, Docker, Kubernentes, AWS...
         </p>
 
         <div className={styles.grid}>
