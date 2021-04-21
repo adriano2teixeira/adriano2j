@@ -92,7 +92,7 @@ export default function Home() {
 
         <meta
           name="keywords"
-          content="Adriano Texiera João, Desenvolvedor Fullstack Angola"
+          content="Adriano Texiera João, Desenvolvedor Fullstack"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -105,8 +105,8 @@ export default function Home() {
         <h1 className={styles.title}>Adriano Teixeira João</h1>
 
         <p className={styles.description}>
-          Desenvolvedor Fullstack - Web, Mobile e Desktop, com mais de 7 de
-          experiência na área.
+          Desenvolvedor Fullstack - Web, Mobile e Desktop, com mais de 7 anos de
+          experiência na área. Trabalhando com tecnologias como HTML, CSS, JavaScript, NodeJS, React JS, React Native, Go lang, Docker, Kubernentes, AWS...
         </p>
 
         <div className={styles.grid}>
