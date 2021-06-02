@@ -17,7 +17,7 @@ Comece editando os arquivos em `pages/index.js`. Este site usa o nextJS como fra
 ## Aprenda mais
 
 
-Para saber mais sobre Next.js, dê uma olhada nos seguintes recursos:
+Para saber mais sobre o framework Next.js, dê uma olhada nos seguintes recursos:
 
 - [Next.js Documentation](https://nextjs.org/docs) - aprender sobre os recursos e API do Next.js.
 - [Learn Next.js](https://nextjs.org/learn) - um tutorial Next.js interativo
