@@ -99,7 +99,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <img
-          src="/adriano_teixeira_joao.jpeg"
+          src="https://avatars.githubusercontent.com/u/75324315?v=4"
           style={{ width: 210, borderRadius: "50%", border: "5px solid #ddd" }}
         />
         <h1 className={styles.title}>Adriano Teixeira João</h1>
@@ -119,7 +119,7 @@ export default function Home() {
               Visitar Github &rarr;
             </h3>
             <p>
-              Explore o meu perfil do Github e descubra os meus repositórios.
+              Explore o meu perfil do Github e descubra os meus projectos.
             </p>
           </a>
 
@@ -140,7 +140,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3 style={{ fontSize: 20 }}>Perfil do Instagram &rarr;</h3>
-            <p>Me segue no Instagram e interaja comigo pelo instagram.</p>
+            <p>Me segue no Instagram e poderá interagir comigo.</p>
           </a>
 
           <a
